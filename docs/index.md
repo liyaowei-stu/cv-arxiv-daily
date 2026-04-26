@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.20
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## World Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
+|**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
+|**2026-04-23**|**Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training**|Yaxuan Li et.al.|[2604.21741](http://arxiv.org/abs/2604.21741)|null|
+|**2026-04-23**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Xiaojie Xu et.al.|[2604.21686](http://arxiv.org/abs/2604.21686)|null|
+|**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Open-H-Embodiment Consortium et.al.|[2604.21017](http://arxiv.org/abs/2604.21017)|null|
+|**2026-04-22**|**Learning Reasoning World Models for Parallel Code**|Gautam Singh et.al.|[2604.20926](http://arxiv.org/abs/2604.20926)|null|
+|**2026-04-22**|**Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning**|Aravind Venugopal et.al.|[2604.20627](http://arxiv.org/abs/2604.20627)|null|
+|**2026-04-22**|**CCTVBench: Contrastive Consistency Traffic VideoQA Benchmark for Multimodal LLMs**|Xingcheng Zhou et.al.|[2604.20460](http://arxiv.org/abs/2604.20460)|null|
+|**2026-04-22**|**X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference**|Yixiao Zeng et.al.|[2604.20289](http://arxiv.org/abs/2604.20289)|null|
+|**2026-04-22**|**Cortex 2.0: Grounding World Models in Real-World Industrial Deployment**|Adriana Aida et.al.|[2604.20246](http://arxiv.org/abs/2604.20246)|null|
 |**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|null|
 |**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Youling Huang et.al.|[2604.13824](http://arxiv.org/abs/2604.13824)|null|
 |**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
@@ -28,6 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
+|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
+|**2026-04-23**|**Low-Rank Adaptation Redux for Large Models**|Bingcong Li et.al.|[2604.21905](http://arxiv.org/abs/2604.21905)|null|
+|**2026-04-23**|**From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media**|Katharina Prasse et.al.|[2604.21786](http://arxiv.org/abs/2604.21786)|null|
+|**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728](http://arxiv.org/abs/2604.21728)|null|
+|**2026-04-23**|**Towards Universal Tabular Embeddings: A Benchmark Across Data Tasks**|Liane Vogel et.al.|[2604.21696](http://arxiv.org/abs/2604.21696)|null|
+|**2026-04-23**|**Attention-based multiple instance learning for predominant growth pattern prediction in lung adenocarcinoma wsi using foundation models**|Laura Valeria Perez-Herrera et.al.|[2604.21530](http://arxiv.org/abs/2604.21530)|null|
+|**2026-04-23**|**Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models**|Mohammed Safi Ur Rahman Khan et.al.|[2604.21523](http://arxiv.org/abs/2604.21523)|null|
+|**2026-04-23**|**VFM $^{4}$ SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2604.21502](http://arxiv.org/abs/2604.21502)|null|
 |**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
 |**2026-04-15**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Lin-Zhuo Chen et.al.|[2604.14141](http://arxiv.org/abs/2604.14141)|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|
@@ -53,6 +73,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
+|**2026-04-23**|**Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference**|Li Chen et.al.|[2604.21843](http://arxiv.org/abs/2604.21843)|null|
+|**2026-04-23**|**Quotient-Space Diffusion Models**|Yixian Xu et.al.|[2604.21809](http://arxiv.org/abs/2604.21809)|null|
+|**2026-04-23**|**StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition**|Kwan Yun et.al.|[2604.21689](http://arxiv.org/abs/2604.21689)|null|
+|**2026-04-23**|**DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**|Tahar Chettaoui et.al.|[2604.21627](http://arxiv.org/abs/2604.21627)|null|
+|**2026-04-23**|**Generative Learning Enhanced Intelligent Resource Management for Cell-Free Delay Deterministic Communications**|Shuangbo Xiong et.al.|[2604.21587](http://arxiv.org/abs/2604.21587)|null|
+|**2026-04-23**|**DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction**|Shiyan Su et.al.|[2604.21518](http://arxiv.org/abs/2604.21518)|null|
+|**2026-04-23**|**TopoStyle: Supporting Iterative Design with Generative AI for 2.5D Topology Optimization**|Shuyue Feng et.al.|[2604.21315](http://arxiv.org/abs/2604.21315)|null|
+|**2026-04-23**|**LatRef-Diff: Latent and Reference-Guided Diffusion for Facial Attribute Editing and Style Manipulation**|Wenmin Huang et.al.|[2604.21279](http://arxiv.org/abs/2604.21279)|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|
 |**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|null|
 |**2026-04-15**|**PRiMeFlow: Capturing Complex Expression Heterogeneity in Perturbation Response Modelling**|Zichao Yan et.al.|[2604.13986](http://arxiv.org/abs/2604.13986)|null|
@@ -78,6 +108,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**A Replicable Robotics Awareness Method Using LLM-Enabled Robotics Interaction: Evidence from a Corporate Challenge**|S. A. Prieto et.al.|[2604.21377](http://arxiv.org/abs/2604.21377)|null|
+|**2026-04-22**|**Planetary Exploration 3.0: A Roadmap for Software-Defined, Radically Adaptive Space Systems**|Masahiro Ono et.al.|[2604.20910](http://arxiv.org/abs/2604.20910)|null|
+|**2026-04-22**|**LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture**|Xu Huang et.al.|[2604.20193](http://arxiv.org/abs/2604.20193)|null|
+|**2026-04-23**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
+|**2026-04-20**|**StableIDM: Stabilizing Inverse Dynamics Model against Manipulator Truncation via Spatio-Temporal Refinement**|Kerui Li et.al.|[2604.17887](http://arxiv.org/abs/2604.17887)|null|
+|**2026-04-20**|**OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL**|Haoxiang Jie et.al.|[2604.17706](http://arxiv.org/abs/2604.17706)|null|
+|**2026-04-19**|**GaLa: Hypergraph-Guided Visual Language Models for Procedural Planning**|Kun Wang et.al.|[2604.17241](http://arxiv.org/abs/2604.17241)|null|
+|**2026-04-18**|**Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents**|Sukai Huang et.al.|[2604.17019](http://arxiv.org/abs/2604.17019)|null|
+|**2026-04-18**|**Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification**|Jiawen Wen et.al.|[2604.16993](http://arxiv.org/abs/2604.16993)|null|
+|**2026-04-16**|**GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology**|Shivendra Agrawal et.al.|[2604.15495](http://arxiv.org/abs/2604.15495)|null|
 |**2026-04-15**|**[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI**|You Rim Choi et.al.|[2604.13959](http://arxiv.org/abs/2604.13959)|null|
 |**2026-04-15**|**EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development**|Xueyang Zhou et.al.|[2604.13800](http://arxiv.org/abs/2604.13800)|null|
 |**2026-04-15**|**ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation**|Jingjing Qian et.al.|[2604.13633](http://arxiv.org/abs/2604.13633)|null|
