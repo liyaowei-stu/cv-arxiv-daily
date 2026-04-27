@@ -1,4 +1,4 @@
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -40,7 +40,7 @@
 |**2026-04-12**|**Do LLMs Build Spatial World Models? Evidence from Grid-World Maze Tasks**|Weijiang Li et.al.|[2604.10690](http://arxiv.org/abs/2604.10690)|null|
 |**2026-04-11**|**Zero-shot World Models Are Developmentally Efficient Learners**|Khai Loong Aw et.al.|[2604.10333](http://arxiv.org/abs/2604.10333)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Multimodal Foundation Model
 
@@ -77,7 +77,7 @@
 |**2026-04-13**|**LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment**|Dujun Nie et.al.|[2604.11689](http://arxiv.org/abs/2604.11689)|null|
 |**2026-04-13**|**Towards Brain MRI Foundation Models for the Clinic: Findings from the FOMO25 Challenge**|Asbjørn Munk et.al.|[2604.11679](http://arxiv.org/abs/2604.11679)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Diffusion & Flow
 
@@ -114,7 +114,7 @@
 |**2026-04-13**|**Degradation-Aware and Structure-Preserving Diffusion for Real-World Image Super-Resolution**|Yang Ji et.al.|[2604.11470](http://arxiv.org/abs/2604.11470)|null|
 |**2026-04-13**|**One Scale at a Time: Scale-Autoregressive Modeling for Fluid Flow Distributions**|Mario Lino et.al.|[2604.11403](http://arxiv.org/abs/2604.11403)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 ## Embodied / Agent
 
@@ -148,7 +148,7 @@
 |**2026-04-12**|**Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models**|Dehui Wang et.al.|[2604.10578](http://arxiv.org/abs/2604.10578)|null|
 |**2026-04-12**|**Learning 3D Representations for Spatial Intelligence from Unposed Multi-View Images**|Bo Zhou et.al.|[2604.10573](http://arxiv.org/abs/2604.10573)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
