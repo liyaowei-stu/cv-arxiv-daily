@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## World Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
+|**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
+|**2026-04-30**|**Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces**|Andrew Bond et.al.|[2604.28122](http://arxiv.org/abs/2604.28122)|null|
+|**2026-04-30**|**Dreaming Across Towns: Semantic Rollout and Town-Adversarial Regularization for Zero-Shot Held-Out-Town Fixed-Route Driving in CARLA**|Feeza Khan Khanzada et.al.|[2604.27994](http://arxiv.org/abs/2604.27994)|null|
+|**2026-04-30**|**GUI Agents with Reinforcement Learning: Toward Digital Inhabitants**|Junan Hu et.al.|[2604.27955](http://arxiv.org/abs/2604.27955)|null|
+|**2026-04-30**|**Flying by Inference: Active Inference World Models for Adaptive UAV Swarms**|Kaleem Arshid et.al.|[2604.27935](http://arxiv.org/abs/2604.27935)|null|
+|**2026-04-30**|**Simulating clinical interventions with a generative multimodal model of human physiology**|Guy Lutsker et.al.|[2604.27899](http://arxiv.org/abs/2604.27899)|null|
+|**2026-04-30**|**Graph World Models: Concepts, Taxonomy, and Future Directions**|Jiawei Liu et.al.|[2604.27895](http://arxiv.org/abs/2604.27895)|null|
+|**2026-04-30**|**MotuBrain: An Advanced World Action Model for Robot Control**|MotuBrain Team et.al.|[2604.27792](http://arxiv.org/abs/2604.27792)|null|
 |**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
 |**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
 |**2026-04-23**|**Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training**|Yaxuan Li et.al.|[2604.21741](http://arxiv.org/abs/2604.21741)|null|
@@ -38,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
+|**2026-04-30**|**Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models**|Matthias Hertel et.al.|[2604.28149](http://arxiv.org/abs/2604.28149)|null|
+|**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
+|**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115](http://arxiv.org/abs/2604.28115)|null|
+|**2026-04-30**|**SpecVQA: A Benchmark for Spectral Understanding and Visual Question Answering in Scientific Images**|Jialu Shen et.al.|[2604.28039](http://arxiv.org/abs/2604.28039)|null|
+|**2026-04-30**|**A Pattern Language for Resilient Visual Agents**|Habtom Kahsay Gidey et.al.|[2604.28001](http://arxiv.org/abs/2604.28001)|null|
+|**2026-04-30**|**TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions**|Ce Chen et.al.|[2604.27975](http://arxiv.org/abs/2604.27975)|null|
+|**2026-04-30**|**FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting**|Fengxian Ji et.al.|[2604.27974](http://arxiv.org/abs/2604.27974)|null|
+|**2026-04-30**|**The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models**|Kenneth J. K. Ong et.al.|[2604.27953](http://arxiv.org/abs/2604.27953)|null|
 |**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
 |**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
 |**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
@@ -73,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
+|**2026-04-30**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
+|**2026-04-30**|**On three-dimensional flows of thermo-viscoelastic fluids of Giesekus type**|Miroslav Bulíček et.al.|[2604.27978](http://arxiv.org/abs/2604.27978)|null|
+|**2026-04-30**|**From LLM-Driven Trading Card Generation to Procedural Relatedness: A Pokémon Case Study**|Johannes Pfau et.al.|[2604.27972](http://arxiv.org/abs/2604.27972)|null|
+|**2026-04-30**|**Diffusion-OAMP for Joint Image Compression and Wireless Transmission**|Wentao Hou et.al.|[2604.27952](http://arxiv.org/abs/2604.27952)|null|
+|**2026-04-30**|**Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection**|Ali Shibli et.al.|[2604.27889](http://arxiv.org/abs/2604.27889)|null|
+|**2026-04-30**|**D-Rex : Diffusion Rendering for Relightable Expressive Avatars**|Timo Teufel et.al.|[2604.27871](http://arxiv.org/abs/2604.27871)|null|
+|**2026-04-30**|**Thermal instability and rocky planetesimal formation in the inner regions of protoplanetary disks**|Ryo Kato et.al.|[2604.27581](http://arxiv.org/abs/2604.27581)|null|
+|**2026-04-30**|**Electrothermal Dynamics of Cold Front in Impure Tokamak Plasmas**|S. Oshiro et.al.|[2604.27444](http://arxiv.org/abs/2604.27444)|null|
 |**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
 |**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
 |**2026-04-23**|**Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference**|Li Chen et.al.|[2604.21843](http://arxiv.org/abs/2604.21843)|null|
@@ -108,6 +138,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Robot Learning from Human Videos: A Survey**|Junyi Ma et.al.|[2604.27621](http://arxiv.org/abs/2604.27621)|null|
+|**2026-04-30**|**World2Minecraft: Occupancy-Driven Simulated Scenes Construction**|Lechao Zhang et.al.|[2604.27578](http://arxiv.org/abs/2604.27578)|null|
+|**2026-04-30**|**SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation**|Song Tang et.al.|[2604.27555](http://arxiv.org/abs/2604.27555)|null|
+|**2026-04-29**|**3D Generation for Embodied AI and Robotic Simulation: A Survey**|Tianwei Ye et.al.|[2604.26509](http://arxiv.org/abs/2604.26509)|null|
+|**2026-04-29**|**Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding**|Yufei Yin et.al.|[2604.26261](http://arxiv.org/abs/2604.26261)|null|
+|**2026-04-28**|**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**|Yufei Jia et.al.|[2604.25459](http://arxiv.org/abs/2604.25459)|null|
+|**2026-04-27**|**Interoceptive machine framework: Toward interoception-inspired regulatory architectures in artificial intelligence**|Diego Candia-Rivera et.al.|[2604.24527](http://arxiv.org/abs/2604.24527)|null|
+|**2026-04-27**|**AgenticCache: Cache-Driven Asynchronous Planning for Embodied AI Agents**|Hojoon Kim et.al.|[2604.24039](http://arxiv.org/abs/2604.24039)|null|
+|**2026-04-26**|**From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Asset Generation**|Jiafeng Wu et.al.|[2604.23629](http://arxiv.org/abs/2604.23629)|null|
+|**2026-04-26**|**PhysCodeBench: Benchmarking Physics-Aware Symbolic Simulation of 3D Scenes via Self-Corrective Multi-Agent Refinement**|Tianyidan Xie et.al.|[2604.23580](http://arxiv.org/abs/2604.23580)|null|
 |**2026-04-23**|**A Replicable Robotics Awareness Method Using LLM-Enabled Robotics Interaction: Evidence from a Corporate Challenge**|S. A. Prieto et.al.|[2604.21377](http://arxiv.org/abs/2604.21377)|null|
 |**2026-04-22**|**Planetary Exploration 3.0: A Roadmap for Software-Defined, Radically Adaptive Space Systems**|Masahiro Ono et.al.|[2604.20910](http://arxiv.org/abs/2604.20910)|null|
 |**2026-04-22**|**LLM-Guided Safety Agent for Edge Robotics with an ISO-Compliant Perception-Compute-Control Architecture**|Xu Huang et.al.|[2604.20193](http://arxiv.org/abs/2604.20193)|null|
