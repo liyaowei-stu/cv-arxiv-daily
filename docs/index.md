@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## World Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Quantitative Video World Model Evaluation for Geometric-Consistency**|Jiaxin Wu et.al.|[2605.15185](http://arxiv.org/abs/2605.15185)|null|
+|**2026-05-14**|**SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer**|Haoyi Zhu et.al.|[2605.15178](http://arxiv.org/abs/2605.15178)|null|
+|**2026-05-14**|**Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation**|Min Zhao et.al.|[2605.15141](http://arxiv.org/abs/2605.15141)|null|
+|**2026-05-14**|**Slot-MPC: Goal-Conditioned Model Predictive Control with Object-Centric Representations**|Jonathan Spieler et.al.|[2605.14937](http://arxiv.org/abs/2605.14937)|null|
+|**2026-05-14**|**IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification**|Zhigao Huang et.al.|[2605.14851](http://arxiv.org/abs/2605.14851)|null|
+|**2026-05-14**|**ChannelAgent-Empowered Electromagnetic Space World Model: A Case Study on Agent-Driven Channel Generation for 6G AI-Native Air Interface**|Mingyue Li et.al.|[2605.14757](http://arxiv.org/abs/2605.14757)|null|
+|**2026-05-14**|**Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**|Minghao Wu et.al.|[2605.14723](http://arxiv.org/abs/2605.14723)|null|
+|**2026-05-14**|**EponaV2: Driving World Model with Comprehensive Future Reasoning**|Jiawei Xu et.al.|[2605.14696](http://arxiv.org/abs/2605.14696)|null|
+|**2026-05-14**|**When Robots Do the Chores: A Benchmark and Agent for Long-Horizon Household Task Execution**|Zilin Zhu et.al.|[2605.14504](http://arxiv.org/abs/2605.14504)|null|
+|**2026-05-14**|**Coding Agent Is Good As World Simulator**|Hongyu Wang et.al.|[2605.14398](http://arxiv.org/abs/2605.14398)|null|
 |**2026-05-08**|**One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy**|Zuojin Tang et.al.|[2605.07931](http://arxiv.org/abs/2605.07931)|null|
 |**2026-05-08**|**Synchronizing Minds through Collective Predictive Coding: A Computational Model of Parent-Infant Homeostatic Co-Regulation**|Yushi Tsubamoto et.al.|[2605.07524](http://arxiv.org/abs/2605.07524)|null|
 |**2026-05-08**|**ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation**|Haonan Wang et.al.|[2605.07390](http://arxiv.org/abs/2605.07390)|null|
@@ -68,6 +78,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|null|
+|**2026-05-14**|**Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing**|Ellwil Sharma et.al.|[2605.15179](http://arxiv.org/abs/2605.15179)|null|
+|**2026-05-14**|**Does Synthetic Layered Design Data Benefit Layered Design Decomposition?**|Kam Man Wu et.al.|[2605.15167](http://arxiv.org/abs/2605.15167)|null|
+|**2026-05-14**|**Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction**|Zhuohang Li et.al.|[2605.15157](http://arxiv.org/abs/2605.15157)|null|
+|**2026-05-14**|**Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action**|Yi Zhang et.al.|[2605.15153](http://arxiv.org/abs/2605.15153)|null|
+|**2026-05-14**|**Causal Foundation Models with Continuous Treatments**|Christopher Stith et.al.|[2605.15133](http://arxiv.org/abs/2605.15133)|null|
+|**2026-05-14**|**DriveCtrl: Conditioned Sim-to-Real Driving Video Generation**|Haonan Zhao et.al.|[2605.15116](http://arxiv.org/abs/2605.15116)|null|
+|**2026-05-14**|**On the Cultural Anachronism and Temporal Reasoning in Vision Language Models**|Mukul Ranjan et.al.|[2605.15071](http://arxiv.org/abs/2605.15071)|null|
+|**2026-05-14**|**LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection**|Mitchell Piehl et.al.|[2605.15054](http://arxiv.org/abs/2605.15054)|null|
+|**2026-05-14**|**Characterizing the visual representation of objects from the child's view**|Jane Yang et.al.|[2605.14990](http://arxiv.org/abs/2605.14990)|null|
 |**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
 |**2026-05-08**|**Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models**|Kaidi Jia et.al.|[2605.08031](http://arxiv.org/abs/2605.08031)|null|
 |**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
@@ -133,6 +153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
+|**2026-05-14**|**Aligning Latent Geometry for Spherical Flow Matching in Image Generation**|Tuna Han Salih Meral et.al.|[2605.15193](http://arxiv.org/abs/2605.15193)|null|
+|**2026-05-14**|**RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO**|Yanzuo Lu et.al.|[2605.15190](http://arxiv.org/abs/2605.15190)|null|
+|**2026-05-14**|**DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models**|Quanhao Li et.al.|[2605.15055](http://arxiv.org/abs/2605.15055)|null|
+|**2026-05-14**|**EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration**|Wuyang Li et.al.|[2605.15042](http://arxiv.org/abs/2605.15042)|null|
+|**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
+|**2026-05-14**|**MicroscopyMatching: Towards a Ready-to-use Framework for Microscopy Image Analysis in Diverse Conditions**|Xiaofei Hui et.al.|[2605.14980](http://arxiv.org/abs/2605.14980)|null|
+|**2026-05-14**|**ACE-LoRA: Adaptive Orthogonal Decoupling for Continual Image Editing**|Yuehao Liu et.al.|[2605.14948](http://arxiv.org/abs/2605.14948)|null|
+|**2026-05-14**|**SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer**|Zheng Hui et.al.|[2605.14894](http://arxiv.org/abs/2605.14894)|null|
+|**2026-05-14**|**FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery**|Patrick Kwon et.al.|[2605.14854](http://arxiv.org/abs/2605.14854)|null|
 |**2026-05-08**|**Normalizing Trajectory Models**|Jiatao Gu et.al.|[2605.08078](http://arxiv.org/abs/2605.08078)|null|
 |**2026-05-08**|**Flow-OPD: On-Policy Distillation for Flow Matching Models**|Zhen Fang et.al.|[2605.08063](http://arxiv.org/abs/2605.08063)|null|
 |**2026-05-08**|**MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation**|Xinyan Ye et.al.|[2605.08050](http://arxiv.org/abs/2605.08050)|null|
@@ -198,6 +228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Digital Twin Synchronization Over Mobile Embodied AI Network With Agentic Intelligence**|Zhouxiang Zhao et.al.|[2605.14625](http://arxiv.org/abs/2605.14625)|null|
+|**2026-05-14**|**TeachAnything: A Multimodal Crowdsourcing Platform for Training Embodied AI Agents in Symmetrical Reality**|Zidong Liu et.al.|[2605.14556](http://arxiv.org/abs/2605.14556)|null|
+|**2026-05-14**|**When Robots Do the Chores: A Benchmark and Agent for Long-Horizon Household Task Execution**|Zilin Zhu et.al.|[2605.14504](http://arxiv.org/abs/2605.14504)|null|
+|**2026-05-14**|**Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos**|Yubo Zhao et.al.|[2605.14462](http://arxiv.org/abs/2605.14462)|null|
+|**2026-05-14**|**Joint Communication and Computation Design for Mobile Embodied AI Network (MEAN)**|Chenliang Wu et.al.|[2605.14300](http://arxiv.org/abs/2605.14300)|null|
+|**2026-05-13**|**HetScene: Heterogeneity-Aware Diffusion for Dense Indoor Scene Generation**|Zini Chen et.al.|[2605.13586](http://arxiv.org/abs/2605.13586)|null|
+|**2026-05-14**|**D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models**|Yucheng Guo et.al.|[2605.13276](http://arxiv.org/abs/2605.13276)|null|
+|**2026-05-13**|**Rigel3D: Rig-aware Latents for Animation-Ready 3D Asset Generation**|Nikitas Chatzis et.al.|[2605.13129](http://arxiv.org/abs/2605.13129)|null|
+|**2026-05-12**|**World Action Models: The Next Frontier in Embodied AI**|Siyin Wang et.al.|[2605.12090](http://arxiv.org/abs/2605.12090)|null|
+|**2026-05-11**|**Embodied AI in Action: Insights from SAE World Congress 2026 on Safety, Trust, Robotics, and Real-World Deployment**|Jan-Mou Li et.al.|[2605.10653](http://arxiv.org/abs/2605.10653)|null|
 |**2026-05-08**|**CSR: Infinite-Horizon Real-Time Policies with Massive Cached State Representations**|Robin Karlsson et.al.|[2605.07325](http://arxiv.org/abs/2605.07325)|null|
 |**2026-05-08**|**BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**|Zhaohui Du et.al.|[2605.07306](http://arxiv.org/abs/2605.07306)|null|
 |**2026-05-08**|**Membership Inference Attacks on Vision-Language-Action Models**|Yuefeng Peng et.al.|[2605.07088](http://arxiv.org/abs/2605.07088)|null|
